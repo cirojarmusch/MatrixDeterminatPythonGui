@@ -6,24 +6,9 @@ User-friendly graphical interface (GUI) using tkinter.
 
 Supports matrices of sizes:
 
-2
-×
-2
 2×2
-
-3
-×
-3
 3×3
-
-4
-×
-4
 4×4
-
-5
-×
-5
 5×5
 
 Dynamic input fields that automatically adjust based on the selected matrix size.
